@@ -10,6 +10,7 @@ namespace Fegyverarzenál
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
